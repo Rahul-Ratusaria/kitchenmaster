@@ -187,6 +187,7 @@ Email Address:
 	  <textarea name='message' style='padding:10px;' placeholder='Please Give Us Reviews'></textarea><br><br>
 	  <input name='commentsubmit' class='commentsubmit' type='submit'>
 </form>
+	 
 <?php
 getcomments();
 ?>
